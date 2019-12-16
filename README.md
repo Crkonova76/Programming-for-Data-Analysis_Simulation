@@ -50,6 +50,6 @@ In the last part "Simulation of data" all dataframes are created for the size of
 * The restriction on the Income based on the age 25 years old and younger is placed (maximum income is €25,000).
 * Special variable "Adjusted Salary" introduced, which is used to reflect the impact of gender and education on the income  
 
-#### _Simulation of Data
+#### _Simulation of Data_
 
 * The sample size adjusted to 100 and the database 
