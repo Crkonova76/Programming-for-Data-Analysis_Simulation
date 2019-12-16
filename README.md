@@ -20,6 +20,8 @@ Is the software library  written for the Python programming language for data ma
 * NumPy
 is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.<br/>
 
+__The Project is saved in the file named "Simulation of data_income"__ and saved on the https://github.com/Crkonova76/Programming-for-Data-Analysis_Simulation.
+
 #### _Approach taken to the project_
 
 The variables and their relationships are investigated. Based on the research different aspects of varaibles and their influences on the income is established. The dataframes are created just for the sample of 10 outcomes to visualise and check the correctness of the approach.<br/>
