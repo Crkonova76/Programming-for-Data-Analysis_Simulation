@@ -11,13 +11,13 @@ The selected topic is the gross income on population of 100 inhabitants in Irela
 
 #### _Requirements:_
 
-*Jupyter Notebook
+* Jupyter Notebook
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.<br/>
 
-*Pandas
+* Pandas
 Is the software library  written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.<br/>
 
-*NumPy
+* NumPy
 is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.<br/>
 
 #### _Approach taken to the project_
@@ -28,14 +28,14 @@ In the last part "Simulation of data" all dataframes are created for the size of
 
 #### _Variable Age/Experience_
 
-*The Range of the age for the simulation of data is established to age 16 to 70 years.
-*The distibution of population based on the  age groups in Ireland has normal distribution (bell shaped).For the purpose of this project this project discrete uniform distribution is selected, as I wanted to have the same chance of all age groups of population to be represented.<br/>
-*The research completed to evaluate if there is any relationship between the age and income. <br/>
+* The Range of the age for the simulation of data is established to age 16 to 70 years.
+* The distibution of population based on the  age groups in Ireland has normal distribution (bell shaped).For the purpose of this project this project discrete uniform distribution is selected, as I wanted to have the same chance of all age groups of population to be represented.<br/>
+* The research completed to evaluate if there is any relationship between the age and income. <br/>
 
 #### _Variable Gender_
 
-*Gender gap defined and 14% as difference between males and females is established
-*Distribution of work force is looking into the % representation of males vs females out of the working population. This is used as probability in creating the randomn representation of males vs females in the population .<br/>
+* Gender gap defined and 14% as difference between males and females is established
+* Distribution of work force is looking into the % representation of males vs females out of the working population. This is used as probability in creating the randomn representation of males vs females in the population .<br/>
 
 #### _Education_
 
