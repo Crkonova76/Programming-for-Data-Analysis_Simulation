@@ -52,4 +52,4 @@ In the last part "Simulation of data" all dataframes are created for the size of
 
 #### _Simulation of Data_
 
-* The sample size adjusted to 100 and the database 
+* The sample size adjusted to 100 and the dataframe completed with all parameters as set up above.
